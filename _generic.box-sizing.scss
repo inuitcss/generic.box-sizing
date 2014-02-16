@@ -14,3 +14,13 @@
                 box-sizing: border-box;
     }
 }
+
+
+
+
+
+/**
+ * If we have included this file, set a variable to tell the rest of the
+ * framework that global `box-sizing: border-box` has been set.
+ */
+$inuit-global-border-box: true;
