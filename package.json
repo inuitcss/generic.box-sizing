@@ -1,0 +1,21 @@
+{
+  "name": "inuit-box-sizing",
+  "version": "0.2.0",
+  "description": "Global box sizing rules for the inuitcss framework",
+  "main": "_generic.box-sizing.scss",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/inuitcss/generic.box-sizing.git"
+  },
+  "author": "Harry Roberts <harry@csswizardry.com>",
+  "license": "Apache 2",
+  "bugs": {
+    "url": "https://github.com/inuitcss/generic.box-sizing/issues"
+  },
+  "homepage": "https://github.com/inuitcss/generic.box-sizing",
+  "keywords": [
+    "inuitcss",
+    "oocss",
+    "css"
+  ]
+}
